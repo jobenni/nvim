@@ -9,6 +9,13 @@ return {
       no_italic = false,
       no_bold = false,
       no_underline = false,
+      float = {
+        transparent = true,
+        solid = false,
+      },
+      dim_inactive = {
+        enabled = true,
+      },
     },
   },
 }

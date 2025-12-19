@@ -16,6 +16,9 @@ return {
       dim_inactive = {
         enabled = true,
       },
+      integrations = {
+        blink_cmp = true,
+      },
     },
   },
 }

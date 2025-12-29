@@ -2,7 +2,6 @@ return {
   {
     "saghen/blink.cmp",
     opts = {
-      default = { "i18n", "lsp", "path", "buffer" },
       appearance = {
         -- set to 'mono' for 'Nerd Font Mono' or 'normal' for 'Nerd Font'
         -- adjusts spacing to ensure icons are aligned
